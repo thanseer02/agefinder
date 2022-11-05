@@ -1,0 +1,56 @@
+h1
+{
+    text-align: center;
+    margin-top: 300px;
+    border-style:ridge;
+    background-color: antiquewhite;
+}
+textarea
+{
+    margin-left: 43%;
+    font-size: 45px;
+    resize: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(244, 249, 248);
+    font-weight: 500;
+    
+}
+button
+{
+    margin-left: 43%;
+    margin-top: 10px;
+    color: aliceblue;
+    background-color: rgb(0, 0, 0,0.5);
+    padding: 10px 24px;
+    transition: 0.2s;
+    border: none;
+
+
+}
+button:hover
+{
+    background: transparent;
+    color: rgba(250, 249, 249, 0.9);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    border: 1px outset;
+
+
+}
+body
+{
+    background-color: rgb(0, 0, 0,0.8);
+}
+p
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight:900;
+    color: aliceblue;
+
+}
+h3
+{
+    color: aliceblue;
+    text-align: center;
+}
